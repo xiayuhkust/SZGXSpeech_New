@@ -1,12 +1,10 @@
 # SZGXSpeech Text Processor
 
-A web application for processing Chinese religious texts using GPT-4. This tool helps clean up colloquial language and format religious text with proper references.
+中文宗教文本处理工具，用于规范化和清理口语化表达。
 
-## Features
-- Text input via file upload or direct paste
-- Support for UTF-8 and ANSI encoded files
-- Automatic processing of religious text
-- Clean formatting and reference annotation
+## 功能特点
 
-## Usage
-Processing time: Approximately 3 minutes for 20,000 characters.
+- 自动清理口语化表达
+- 规范化文本格式
+- 智能分段处理
+- 支持多种文本编码（包括ANSI）
